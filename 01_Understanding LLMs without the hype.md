@@ -2,7 +2,7 @@
 
 #### GENERATIVE AI • FOUNDATIONS
 
-# Understanding LLMs Without the Hype
+# Understanding LLMs without the hype
 
 #### Explore AI, Machine Learning, Transformers, GPT, and LLMs through an intuitive visual guide to Generative AI.
 
