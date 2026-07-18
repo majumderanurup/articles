@@ -8,7 +8,7 @@
 
 Millions of people use ChatGPT every day. Yet very few understand what actually happens after they press Enter. At first glance, these capabilities may seem almost magical. But behind every **Large Language Model (LLM)** lies decades of innovation in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Deep Learning (DL)**, and the **Transformer** architecture. In this article, we'll explore the journey from AI to LLMs, building an intuitive understanding of the key concepts that power today's Generative AI. Rather than diving into complex mathematics, we'll focus on the foundations that every AI practitioner should know.
 
-## _Let us start with understanding Artificial Intelligence (AI) and Machine Learning (ML)_
+## **Let us start with understanding Artificial Intelligence (AI) and Machine Learning (ML)**
 
 > **Artificial Intelligence (AI)** is the field of computer science focused on building systems that can perform tasks that normally require human intelligence, such as reasoning, learning, problem-solving, language understanding, and decision-making.
 
@@ -31,7 +31,7 @@ For decades, these algorithms have solved a wide variety of real-world problems 
 
 Traditional Machine Learning algorithms perform exceptionally well on **structured data**. However, as datasets became larger and more complex, their limitations started becoming apparent.
 
-## _Purpose and Evolution of Deep Learning_
+## **Purpose and Evolution of Deep Learning**
 
 Traditional Machine Learning algorithms perform exceptionally well on structured data. However, as datasets grew larger and more complex, their limitations became increasingly apparent.
 
@@ -60,7 +60,7 @@ The diagram below summarizes the major milestones in the evolution of sequence m
 
 <img alt="Evolution of Sequence Models" src="images/01/a001_i002.png" width="50%"/>
 
-## _Common Questions About Large Language Models (LLMs)_
+## **Common Questions About Large Language Models (LLMs)**
 
 Now that we've built the foundations, let's answer some common questions and clear up a few misconceptions about Large Language Models. We will start with the definition of **Large Language Model (LLM)**:
 
@@ -166,7 +166,7 @@ Changing these parameters influences whether the model produces more determinist
 
 However, many modern models—such as **GPT-5**—either do not expose these parameters or encourage users to achieve the desired behavior through **effective prompting** instead of manually tuning sampling values.
 
-## _Conclusion and Next Steps_
+## **Conclusion and Next Steps**
 
 Modern LLMs may seem magical, but they are built on decades of research in AI, Machine Learning, Deep Learning, and the Transformer architecture.
 
