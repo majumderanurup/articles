@@ -1,4 +1,4 @@
-<img alt="Understanding GPT" src="01/a001_i000.png"/>
+<img alt="Understanding GPT" src="images/01/a001_i000.png"/>
 
 #### GENERATIVE AI • FOUNDATIONS
 
@@ -14,7 +14,7 @@ Millions of people use ChatGPT every day. Yet very few understand what actually 
 
 One of the most important branches of AI is **Machine Learning (ML)**. Rather than explicitly programming a computer with rules for every possible situation, Machine Learning enables systems to learn patterns directly from data. Once trained, the model can apply those learned patterns to make predictions on previously unseen data.
 
-<img alt="How Machine Learning Learns from Data" src="01/a001_i001.png" width="50%"/>
+<img alt="How Machine Learning Learns from Data" src="images/01/a001_i001.png" width="50%"/>
 
 > **Machine Learning (ML)** is a branch of Artificial Intelligence (AI) that learns patterns from data and uses those patterns to make predictions or decisions on new, unseen data.
 
@@ -58,7 +58,7 @@ Over time, different neural network architectures were developed for different t
 
 The diagram below summarizes the major milestones in the evolution of sequence models, showing how each architecture addressed the limitations of its predecessor and ultimately led to the Transformer architecture that powers today's Large Language Models.
 
-<img alt="Evolution of Sequence Models" src="01/a001_i002.png" width="50%"/>
+<img alt="Evolution of Sequence Models" src="images/01/a001_i002.png" width="50%"/>
 
 ## _Common Questions About Large Language Models (LLMs)_
 
@@ -92,7 +92,7 @@ However, **GPT** is the branding used by **OpenAI** for its family of models (GP
 
 Let us understand the details
 
-<img alt="Understanding GPT" src="01/a001_i003.png" width="50%"/>
+<img alt="Understanding GPT" src="images/01/a001_i003.png" width="50%"/>
 
 ---
 
@@ -117,7 +117,7 @@ An LLM repeatedly predicts the **next most likely token (token can be considered
 
 The image below describes what happens when we prompt an LLM with a prompt like "Tell me a joke about programmers"
 
-<img alt="Generation vs Prediction" src="01/a001_i005.png" width="50%"/>
+<img alt="Generation vs Prediction" src="images/01/a001_i005.png" width="50%"/>
 
 ---
 
@@ -127,7 +127,7 @@ The image below describes what happens when we prompt an LLM with a prompt like 
 
 LLMs do not store facts in a database or reason like humans. Instead, they generate responses by predicting the most likely sequence of tokens based on the patterns learned during training.
 
-<img alt="Facts vs Training" src="01/a001_i006.png" width="50%"/>
+<img alt="Facts vs Training" src="images/01/a001_i006.png" width="50%"/>
 
 Because of this, they can sometimes produce:
 
@@ -162,7 +162,7 @@ Some common sampling parameters include:
 
 Changing these parameters influences whether the model produces more deterministic or more creative responses.
 
-<img alt="LLM Hyperparameters" src="01/a001_i004.png" width="50%"/>
+<img alt="LLM Hyperparameters" src="images/01/a001_i004.png" width="50%"/>
 
 However, many modern models—such as **GPT-5**—either do not expose these parameters or encourage users to achieve the desired behavior through **effective prompting** instead of manually tuning sampling values.
 
