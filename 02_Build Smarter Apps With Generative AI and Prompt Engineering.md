@@ -34,6 +34,8 @@ To begin, we'll implement the same solution using three different LLM providers:
 - **Google's Gemini** series
 - **Ollama**, which provides a free and locally runnable alternative
 
+The full example can be found in [github](https://github.com/majumderanurup/prompt-engineering.git)
+
 Once we've built the solution with each provider, we'll refactor it to make the implementation **Platform and LLM agnostic**, allowing us to switch between models with minimal code changes.
 
 Finally, we'll improve the quality of the generated results by applying **Prompt Engineering** techniques and observing how even small changes to the prompt can significantly enhance the AI's responses.
@@ -530,7 +532,7 @@ Now the output looks like which is much cleaner and much useful.
 - Set music to a comfortable, conversational volume and monitor it throughout the day.
 ```
 
-the full example can be found in [github](https://github.com/majumderanurup/prompt-engineering.git)
+The full example can be found in [github](https://github.com/majumderanurup/prompt-engineering.git)
 
 ## **Conclusion and Next Steps**
 
