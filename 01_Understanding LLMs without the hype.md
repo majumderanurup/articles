@@ -174,4 +174,4 @@ In this article, we explored the journey from **Artificial Intelligence (AI)** t
 
 Although modern LLMs appear remarkably intelligent, they are fundamentally **pattern-learning systems** that predict one token at a time based on the context they have seen so far. Understanding these foundations is essential before building applications powered by Generative AI.
 
-In the **next article**, we'll move from theory to practice. We'll explore how LLMs can be integrated into **custom AI applications** and learn **Prompt Engineering** techniques for obtaining more accurate and reliable responses.
+In the [**next article**](https://github.com/majumderanurup/articles/blob/main/02_Build%20Smarter%20Apps%20With%20Generative%20AI%20and%20Prompt%20Engineering.md) we'll move from theory to practice. We'll explore how LLMs can be integrated into **custom AI applications** and learn **Prompt Engineering** techniques for obtaining more accurate and reliable responses.
